@@ -13,4 +13,6 @@ This repository contains the **single-nucleus RNA-seq** (snRNA-seq) analysis pip
   - **Males:** WNT, NPF, and Dh31 pathways; reduced dopaminergic transcriptomic engagement.
 - **Glial involvement:** Astrocytes, cortex glia, and ensheathing glia show strong responses linked to circadian and sleep regulation.
 
-Raw data deposited at **X**.  
+Raw data deposited at **X**.
+**Flyphone results brain female:** https://www.flyrnai.org/tools/fly_phone_v2/web/results_compare?filename=juan.iga@wvstateu.edu_20250529-1705_2y
+**Flyphone results brain male:** https://www.flyrnai.org/tools/fly_phone_v2/web/results_compare?filename=juan.iga@wvstateu.edu_20250530-0705_fb
