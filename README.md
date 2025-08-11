@@ -7,10 +7,10 @@ This repository contains the **single-nucleus RNA-seq** (snRNA-seq) analysis pip
 ## Summary
 
 - **Samples:** Pooled brains from female and male flies collected between ZT6–ZT12 after capsaicin or control diets.
-- ** 44 annotated cell-type clusters**
+- **44 annotated cell-type clusters**
 - **Sex-specific responses:**
   - **Females:** Broader transcriptional changes, modulation of insulin-producing cells, TGF-β and AstA signaling in learning/memory circuits.
   - **Males:** WNT, NPF, and Dh31 pathways; reduced dopaminergic transcriptomic engagement.
 - **Glial involvement:** Astrocytes, cortex glia, and ensheathing glia show strong responses linked to circadian and sleep regulation.
 
-Raw data deposited at **[Link pending update]**.  
+Raw data deposited at **X**.  
